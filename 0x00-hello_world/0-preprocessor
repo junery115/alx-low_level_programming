@@ -1,2 +1,2 @@
 #!/bin/bash
-export CFLE=0-main.cI
+gcc $CFILE -o c
