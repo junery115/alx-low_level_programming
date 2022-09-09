@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main
+* main printing sizes
 * Description: Printing sizes of types
 *  Return: Always 0 (Success)
 */
