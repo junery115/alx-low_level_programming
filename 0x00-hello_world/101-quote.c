@@ -2,7 +2,7 @@
 /**
 * main - printing without printf or put
 * Description: print without printf or put
-* Return (1)
+* Return: 1
 */
 
 int main(void)
