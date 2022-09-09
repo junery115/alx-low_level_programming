@@ -3,7 +3,7 @@
 #include<stdio.h>
 
 /**
-* main - starting point of program
+* main:  starting point of program
 * @n interger value to be tested
 * Descripton: Function test wether a number is +ve or -v
 *return 0 
