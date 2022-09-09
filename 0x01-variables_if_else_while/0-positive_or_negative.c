@@ -3,10 +3,10 @@
 #include<stdio.h>
 
 /**
-* main:  starting point of program
+* main - main function
 * @n interger value to be tested
-* Descripton: Function test wether a number is +ve or -v
-*return 0 
+* Descripton: Function test whether a number is +ve or -v
+* Return: 0
 *
 */
 int main(void)
