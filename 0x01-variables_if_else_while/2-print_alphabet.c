@@ -13,7 +13,7 @@ int main(void)
 	c = 'a';
 	while (c <= 'z')
 	{
-		printf("%c", c);
+		putchar(c);
 		c = c + 1;
 	}
 	printf("\n");
