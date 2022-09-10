@@ -3,7 +3,7 @@
 /**
  * main - Entrance to code
  * Description : prints alphabet
- * Return 0
+ * Return: 0
  */
 
 int main(void)
