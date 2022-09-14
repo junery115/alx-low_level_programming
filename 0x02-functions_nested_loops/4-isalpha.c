@@ -6,7 +6,7 @@
  * Description : function returns 1 is alpha and zero otherwise
  * @c: character to be tested
  *
- * Return 0
+ * Return: 0
  *
  */
 
