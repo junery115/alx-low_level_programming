@@ -1,14 +1,16 @@
-#include<unistd.h>
+#include "main.h"
 
-/**
- * _putchar: writes the character to standand output
- *
- * @c character that gets written output
- * Return: Onsuccess it returns 1
- * Onerror -1 is returned
- */
 
-int _putchar(char c)
+
+int main(void)
 {
-	return (write(1, &c, 1));
+	char ch[8] = {'_', 'p', 'u', 't', 'c', 'h', 'a', 'r'};
+	unsigned int i;
+
+	for (i = 0; i < sizeof(x); i++)
+	{
+		_putchar(x[i]);
+	}
+	_putchar('\n');
+	return (0);
 }
