@@ -8,13 +8,6 @@
 
 int main(void)
 {
-	int i, t;
-
-	i = 0;
-
-/*	t = positive_or_negative(i); */
-
-       printf("This is trueA");
-
+	 positive_or_negative(0);
 }
 
