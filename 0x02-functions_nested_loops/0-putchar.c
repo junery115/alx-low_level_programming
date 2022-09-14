@@ -1,6 +1,10 @@
 #include "main.h"
 
-
+/**
+ * main - prints _putchar using a function from a header file
+ * Description: printing out _putchar followed by new line.
+ * Return: 0
+ */
 
 int main(void)
 {
