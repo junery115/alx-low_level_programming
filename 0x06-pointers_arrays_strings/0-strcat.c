@@ -23,7 +23,7 @@ char *_strcat(char *dest, char *src)
 	dest[len + i] = '\0';
 
 
-	return dest;
+	return (dest);
 
 
 
