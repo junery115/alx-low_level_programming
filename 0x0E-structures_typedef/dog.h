@@ -5,7 +5,7 @@
  * struct dog - holds dog properties
  * @name: name of dog
  * @age: age of dog
- * @age: owner of dog
+ * @owner: owner of dog
  * Description: This is a dog struct right here
  */
 
