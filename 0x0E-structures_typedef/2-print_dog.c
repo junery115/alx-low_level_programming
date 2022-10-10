@@ -4,7 +4,7 @@
 
 /**
  * print_dog - function that prints a dog
- * @dog: struct of type dog
+ * @d: struct of type dog
  * Return: nothing
  */
 
