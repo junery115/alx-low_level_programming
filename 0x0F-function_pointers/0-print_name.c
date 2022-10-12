@@ -5,7 +5,7 @@
  * print_name - function that prints name
  *
  * @name: name to be printed
- *
+ * @f: function pointer
  * Returns: void
  */
 
