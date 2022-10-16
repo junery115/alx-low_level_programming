@@ -31,7 +31,6 @@ int print_special_chars(char next, va_list arg)
  * _printf - custom printf
  *Description: prints output based on format
  *@format: char string containing 0 or more directives
- * 
  * Return: number of chars printed
  * excluding '\0'
  * also returns -1 for incomplete idetifier errors
