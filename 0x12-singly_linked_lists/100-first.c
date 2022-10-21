@@ -11,6 +11,6 @@ void __attribute__((constructor)) print_before_main(void);
 
 void print_before_main(void)
 {
-	printf("You're beat! and ye, you must allow,\n"
-		"I bore my house upon your back!\n");
+	printf("You're beat! and yet, you must allow,\n"
+			"I bore my house upon my back!\n");
 }
