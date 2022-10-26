@@ -3,7 +3,7 @@
 /**
  * sum_listint - returns sum of node data
  * @head: beginning of list
- * @Return: an int value
+ * Return: an int value
  *
  */
 
