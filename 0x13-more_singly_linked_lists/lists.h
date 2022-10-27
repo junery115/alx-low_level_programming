@@ -38,6 +38,8 @@ int delete_nodeint_at_index(listint_t **head, unsigned int index);
 listint_t *reverse_listint(listint_t **head);
 size_t print_listint_safe(const listint_t *head);
 const listint_t *find_loop_print(const listint_t *meet, const listint_t *head);
+size_t free_listint_safe(listint_t **h);
+listint_t *loop_start(listint_t *meet, listint_t *head);
 int _putchar(char c);
 
 
