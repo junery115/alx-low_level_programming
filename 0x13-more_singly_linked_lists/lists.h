@@ -36,7 +36,8 @@ listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n);
 listint_t *insert(listint_t **head, int n);
 int delete_nodeint_at_index(listint_t **head, unsigned int index);
 listint_t *reverse_listint(listint_t **head);
-
+size_t print_listint_safe(const listint_t *head);
+const listint_t *find_loop_print(const listint_t *meet, const listint_t *head);
 int _putchar(char c);
 
 
